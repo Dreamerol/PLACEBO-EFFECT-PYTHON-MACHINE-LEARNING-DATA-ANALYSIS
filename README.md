@@ -4,8 +4,9 @@
      style="width: 100%; height: auto;" 
      alt="Data Analysis">
 
-<p align="center">
+   <br>
 
+<p align="center">
 
   <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
@@ -31,6 +32,7 @@
 This is the fascinating world of the **Placebo Effect**. Our project dives deep into this phenomenon, analyzing real clinical trial data to uncover **how beliefs and expectations shape patient outcomes**.  
 
 By blending **psychology, physiology, and data science**, we aim to provide researchers with actionable insights that can improve trial designs and, ultimately, patient care.  
+
 
 ---
 
