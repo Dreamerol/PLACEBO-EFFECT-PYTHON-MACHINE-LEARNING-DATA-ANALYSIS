@@ -338,17 +338,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 - **Machine Learning**  
 - **Statistical Analysis**
 
----
-
-💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
-
 
 ---
 
@@ -365,6 +354,18 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
+
+  ---
+
+💡 Explore the code, data, and models to see how placebo effects can be predicted and analyzed!
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
 
 
 
