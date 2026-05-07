@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -49,7 +49,7 @@ By blending **psychology, physiology, and data science**, we aim to provide rese
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -82,7 +82,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -114,7 +114,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -144,7 +144,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+ 
 
 
 </p>
@@ -177,7 +177,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -207,7 +207,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -236,7 +236,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
@@ -266,7 +266,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 </p>
 
@@ -295,7 +295,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 </p>
 
@@ -323,7 +323,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 </p>
 
@@ -365,7 +365,7 @@ The **Placebo Effect** project explores exactly that—how patients respond when
   <img src="https://img.shields.io/badge/Cross_Validation-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Statistical_Analysis-8B5CF6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Optimization-4F46E5?style=for-the-badge">
+
 
 
 </p>
